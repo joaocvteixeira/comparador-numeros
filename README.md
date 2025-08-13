@@ -1,6 +1,6 @@
 **Atividade:** Faça um programa em Java que leia dois números e exiba o maior deles.  
 
-- **Curso:** Ciência da Computação
+- **Curso:** Bacharelado em Ciência da Computação
 - **Universidade:** UNAMA
 - **Disciplina:** Programação Orientada a Objeto  
 - **Aluno:** João Carlos Viana Teixeira  
