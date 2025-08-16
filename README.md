@@ -1,5 +1,7 @@
-**Atividade:** Faça um programa em Java que leia dois números e exiba o maior deles.  
+**Atividade:**  
+Faça um programa em Java que leia dois números e exiba o maior deles.  
 
+**Identificação:**
 - **Curso:** Bacharelado em Ciência da Computação
 - **Universidade:** UNAMA
 - **Disciplina:** Programação Orientada a Objeto  
